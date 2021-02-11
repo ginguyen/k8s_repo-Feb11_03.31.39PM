@@ -4,3 +4,4 @@ metadata:
   name: name-virtual-host-ingress-no-third-host
 spec:
   name: foo
+# Modified [service_does_not_restrict_ingress_sources_missing_rules.yml] on [2021-02-11 15:32:16.741726]

@@ -33,3 +33,4 @@ spec:
             name: service3
             port:
               number: 80
+# Modified [service_does_not_restrict_ingress_sources_missing_host_attr.yml] on [2021-02-11 15:32:16.740713]

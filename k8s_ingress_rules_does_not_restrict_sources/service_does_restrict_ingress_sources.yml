@@ -34,3 +34,4 @@ spec:
             name: service3
             port:
               number: 80
+# Modified [service_does_restrict_ingress_sources.yml] on [2021-02-11 15:32:16.742149]
