@@ -1,0 +1,6 @@
+
+template_type: K8S
+
+tags:
+- pcs-config:k8s
+
