@@ -17,3 +17,4 @@ spec:
     protocol: TCP
     port: 443
     targetPort: 9433
+# Modified [exposesSSHPortDefaultType.yml] on [2021-02-11 15:32:06.279273]

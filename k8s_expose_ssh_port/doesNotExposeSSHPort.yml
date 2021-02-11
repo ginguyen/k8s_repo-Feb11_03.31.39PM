@@ -18,3 +18,4 @@ spec:
     protocol: TCP
     port: 443
     targetPort: 9433
+# Modified [doesNotExposeSSHPort.yml] on [2021-02-11 15:32:06.278895]
